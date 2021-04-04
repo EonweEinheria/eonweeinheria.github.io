@@ -72,8 +72,7 @@ h1.hello, h1.timing {
     font-family: 'Quicksand', sans-serif;
     font-weight: 500;
     font-size: 1.8rem;
-    /* color: #abebf7; */
-    color: #b5b5a4;
+    color: #abebf7;
     text-align: center;
     text-shadow: 0 1px 5px rgba(0,0,0,.1);
     background-color: rgba(56, 56, 56, 1);
