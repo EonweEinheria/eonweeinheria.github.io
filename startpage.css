@@ -156,7 +156,7 @@ and (max-device-width : 480px){
     font-family: 'Quicksand', sans-serif;
     backdrop-filter: blur(10px);
     font-size: 0.9rem;
-    font-weight: bold;
+    font-weight: 500;
     line-height: 1.1;
     letter-spacing: 0.05rem;
     width: 25%;
@@ -169,7 +169,7 @@ and (max-device-width : 480px){
 }
 .bookmark-title {
     font-size: 1.3rem;
-    font-weight: bold;
+    font-weight: 500;
     /* color: #ff9400; */
     background-image: linear-gradient(to bottom, #ff9400, #ff1ad9);
     background-clip: text;
