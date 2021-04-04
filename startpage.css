@@ -158,6 +158,7 @@ and (max-device-width : 480px){
     font-size: 0.9rem;
     font-weight: 600;
     line-height: 1.1;
+    letter-spacing: .1rem;
     width: 25%;
     height: 11em;
     margin: 0em .5em;
